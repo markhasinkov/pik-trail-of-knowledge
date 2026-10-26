@@ -1,7 +1,7 @@
 /* Сгенерировано .tools/sw-build.mjs — не редактировать dist/sw.js вручную. */
 const SHELL = [
-  "./assets/index-DKYu0egA.js",
-  "./assets/index-Dke-tQ-Z.css",
+  "./assets/index-BfEdNE5m.css",
+  "./assets/index-T4pnt9PI.js",
   "./assets/pixelify-sans-cyrillic-400-normal-DfOZNMlW.woff",
   "./assets/pixelify-sans-cyrillic-600-normal-B3EuUOZG.woff",
   "./assets/pixelify-sans-cyrillic-700-normal-BrZTw8tu.woff",
@@ -20,7 +20,7 @@ const SHELL = [
   "./favicon.svg",
   "./index.html"
 ];
-const VERSION = 'pik-50b3b3a424';
+const VERSION = 'pik-2aabb6aa6d';
 const SHELL_CACHE = `${VERSION}-shell`;
 const RUNTIME_CACHE = `${VERSION}-runtime`;
 const CACHE_PREFIX = 'pik-';
